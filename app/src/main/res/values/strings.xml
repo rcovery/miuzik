@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Miuzik - Modern Music Playlist App</string>
+    <string name="ExampleText">RadioFone Caracol</string>
+    <string name="PlayButton">Play phonk</string>
 </resources>
